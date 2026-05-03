@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Ankit Kumar
 
-<!--
-**ankit1mff/ankit1mff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
 
-Here are some ideas to get you started:
+* 🌱 I’m currently learning Web Development
+* 🛒 Working on E-commerce Website
+* ⚡ I love building websites using HTML, CSS & JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+* HTML
+* CSS
+* JavaScript
+
+## 📂 Projects
+
+* 🛍️ E-commerce Website
+* 📱 Portfolio Website (coming soon)
+
+## 📫 Contact Me
+
+* Email:ar0439087@gmail.com](ar0439087@gmail.com)
+
+## 🌐 Connect with Me
+
+* GitHub: https://github.com/ankit1mff
+
+---
+
+⭐ Don’t forget to check out my repositories!
+
