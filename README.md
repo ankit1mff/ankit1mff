@@ -16,6 +16,7 @@ I'm learning web development and building projects to improve my programming ski
 * 🎮 Tic-Tac-Toe Game — HTML, CSS, JavaScript
 * 🛒 E-commerce Website — Frontend Development
 * 🌐 Personal Portfolio Website
+* 🎮 rock paper seaser — HTML, CSS, JavaScript
 
 ### 🎯 Current Goals
 
