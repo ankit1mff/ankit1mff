@@ -1,31 +1,34 @@
-# Hi 👋, I'm Ankit Kumar
+# Hi, I'm Ankit Kumar 👋
 
-## 💻 About Me
+### 💻 Aspiring Full Stack Developer | CSE Diploma Student
 
-* 🌱 I’m currently learning Web Development
-* 🛒 Working on E-commerce Website
-* ⚡ I love building websites using HTML, CSS & JavaScript
+I'm learning web development and building projects to improve my programming skills.
 
-## 🚀 Skills
+### 🚀 Skills & Technologies
 
-* HTML
-* CSS
-* JavaScript
+* **Frontend:** HTML, CSS, JavaScript, Angular, React
+* **Backend:** .NET Web API
+* **Database:** SQL
+* **Tools:** Git, GitHub, VS Code
 
-## 📂 Projects
+### 📂 My Projects
 
-* 🛍️ E-commerce Website
-* 📱 Portfolio Website (coming soon)
+* 🎮 Tic-Tac-Toe Game — HTML, CSS, JavaScript
+* 🛒 E-commerce Website — Frontend Development
+* 🌐 Personal Portfolio Website
 
-## 📫 Contact Me
+### 🎯 Current Goals
 
-* Email:ar0439087@gmail.com](ar0439087@gmail.com)
+* Improve my problem-solving skills.
+* Learn backend development with .NET Web API.
+* Build real-world projects.
+* Prepare for Full Stack Developer opportunities.
 
-## 🌐 Connect with Me
+### 📫 Connect With Me
 
-* GitHub: https://github.com/ankit1mff
+* GitHub: https://github.com/YOUR-USERNAME
+* LinkedIn: www.linkedin.com/in/ankit-kumar-18893a2b3
 
 ---
 
-⭐ Don’t forget to check out my repositories!
-
+⭐ Thanks for visiting my profile!
